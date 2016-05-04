@@ -151,7 +151,7 @@ CLASSIFIERS = [
 write_init()
 
 setup_dict = dict(
-    name             = "Box2D",
+    name             = "box2d-py",
     version          = version_str,
     author           = "Ken Lauer",
     author_email     = "sirkne at gmail dot com",
